@@ -5,7 +5,7 @@
 int main()
 {
   // Print the message to the console.
-  std::cout << "hello!!" << std::endl;
+  std::cout << "Water" << std::endl;
 
   return 0;
 }
